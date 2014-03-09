@@ -1,0 +1,19 @@
+{
+    "name": "shcoder.alex",
+    "description": "",
+    "version": "0.1.0-1",
+    "private": true,
+    "author": "Shcoder Alex <shcoder.alex@gmail.com>",
+    "scripts": {
+        "start": "index.js"
+    },
+    "dependencies": {
+        "cheerio": "latest",
+        "mongodb": "latest",
+        "request": "latest"
+    },
+    "subdomain": "nvnoskov-express",
+    "engines": {
+        "node": "0.8.x"
+    }
+}
